@@ -51,7 +51,7 @@
     "@radix-ui/react-tooltip": "1.2.7",
     "@sentry/nextjs": "9.35.0",
     "@supabase/ssr": "0.6.1",
-    "@supabase/supabase-js": "2.50.3",
+    "@supabase/supabase-js": "2.51.0",
     "@tanstack/react-query": "5.81.5",
     "@tanstack/react-table": "8.21.3",
     "@types/jaro-winkler": "0.2.4",
